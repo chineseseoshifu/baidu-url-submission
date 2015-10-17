@@ -11,3 +11,7 @@ Simply put the URLs to submit in the seed.txt file, one URL per line.
 Then run python go.py from the command line.
 
 **Note: the [Python requests module](http://docs.python-requests.org/en/latest/) is required.**
+
+## More
+
+We have a blog post with more details on this API [here](https://chineseseoshifu.com/blog/submit-urls-to-baidu-in-style.html).
